@@ -4,20 +4,20 @@ i made a weather station using esp 8266 and a 2.8 inch tft display module . whic
 <img width="564" height="800" alt="zine" src="https://github.com/user-attachments/assets/41a2a1ac-5b8d-4a9d-8003-1ac405fd819c" /><img width="253" height="326" alt="image" src="https://github.com/user-attachments/assets/183a0b43-29a7-48b5-8099-6ba3c05df10c" />
 
 
-TFT Display,Wemos ( ESP8266 )
-VIN,3.3V
-GND,GND
-CS,D1
-RESET,RST
-DC,D2
-SDI,D7
-SCK,D5
-LED,D8
-SDO,D6
-T_CLK,D5
-T_CS,D3
-T_DIN,D7
-T_DO,D6
-T_IRQ,D4
+ TFT Display,Wemos ( ESP8266 )
+ VIN,3.3V
+ GND,GND
+ CS,D1
+ RESET,RST
+ DC,D2
+ SDI,D7
+ SCK,D5
+ LED,D8
+ SDO,D6
+ T_CLK,D5
+ T_CS,D3
+ T_DIN,D7
+ T_DO,D6
+ T_IRQ,D4
 
 <img width="533" height="327" alt="image" src="https://github.com/user-attachments/assets/4da7de3c-d6a4-45de-a9fa-e1ca1dd6296f" />
